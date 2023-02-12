@@ -9,3 +9,4 @@
 //a function is a set of statement that either perform a task or calculate and return a value
 // calling the function functionname();
 // always end a line of code with semi coloumn
+
