@@ -10,6 +10,7 @@ html {
 h1 {
     font-size: 3rem;
     color: white;
+    text-shadow: 5px 5px rgb(22,22,22);
 }
 
 .buffer {
