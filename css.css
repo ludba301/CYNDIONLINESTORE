@@ -52,6 +52,10 @@ hr {
 nav{
     background: #1ECBE1;
 }
+
+.navbar-nav li:hover{
+    transform: scale(2);
+}
 /* navbar */
 /* home page */
 
