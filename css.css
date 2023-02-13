@@ -46,7 +46,7 @@ hr {
 .navbar,.navbar-brand,.nav-link{
    
     color:#055F75 ;
-    font-size: 120%;
+    font-size: 15px;
     text-shadow: 1px 1px rgb(22,22,22);
 }
 
@@ -103,6 +103,10 @@ hr {
 
 .card{
     box-shadow: 2px 4px 4px 2px rgb(22,22,22);
+}
+
+#hrow, .card,img{
+    transition: 1s;
 }
 #hrow, .card:hover,img:hover{
     border-radius: 200px;
