@@ -44,19 +44,70 @@ hr {
 
 /* navbar */
 .navbar,.navbar-brand,.nav-link{
-    background: #42C4F0;
-    color: white;
+   
+    color:#055F75 ;
+    font-size: 120%;
+    text-shadow: 1px 1px rgb(22,22,22);
 }
 
 /* navbar */
-nav{
-    background: #1ECBE1;
+.navbar-brand:hover{
+    text-shadow: 2px 2px aqua;
+    transition:1s;
+}
+.navbar{
+    background: dodgerblue;
+    opacity: 0.5;
 }
 
-.navbar-nav li:hover{
-    transform: scale(2);
+.navbar-nav li a{
+    border-radius: 10px;
+}
+
+
+.navbar-nav li a:hover{
+    transition: 1s;
+    border-radius: 20px;
+    background:linear-gradient(to right, dodgerblue, aqua);
+    color: white;
+   
 }
 /* navbar */
 /* home page */
+#hbod{
+    background-color:#7ee3fc ;
+}
+
+#hcar1{
+    background-image:url(https://res.cloudinary.com/dy0hlxft4/image/upload/v1676283880/cyndionlinestores/caroanim_huzxdm.gif);
+}
+
+#hcar2{
+    background-image: url(https://res.cloudinary.com/dy0hlxft4/image/upload/v1676283828/cyndionlinestores/caroanim2_ybc85y.gif);
+}
+
+.carousel-item{
+    max-width: 100%;
+    width: 1920px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   ;
+}
+
+#hsec1{
+    display: flex;
+    align-items: center;
+}
+
+.card{
+    box-shadow: 2px 4px 4px 2px rgb(22,22,22);
+}
+#hrow, .card:hover,img:hover{
+    border-radius: 200px;
+    transition: 1.4s;
+}
+
 
 /* home page */
