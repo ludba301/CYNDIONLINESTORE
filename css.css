@@ -49,21 +49,10 @@ hr {
 }
 
 /* navbar */
+nav{
+    background: #1ECBE1;
+}
+/* navbar */
 /* home page */
-#hcar1{
-    background: url(https://res.cloudinary.com/dy0hlxft4/image/upload/v1676106009/cyndionlinestores/IMG-20230211-WA0004_upgvfq.jpg);
-}
-#hcar2{
-    background: url(https://res.cloudinary.com/dy0hlxft4/image/upload/v1676106010/cyndionlinestores/IMG-20230211-WA0008_x9ymov.jpg);
-}
-#hcar2{
-    background: url(https://res.cloudinary.com/dy0hlxft4/image/upload/v1676105997/cyndionlinestores/IMG-20230211-WA0021_l2omlx.jpg);
-}
 
-#hcar1,#hcar2,#hcar3{
-    height: 600px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
 /* home page */
