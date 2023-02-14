@@ -54,17 +54,7 @@ hr {
    background-repeat: no-repeat;
    background-size: cover;
    background-position:center;
-   height: 450px;
-}
-
-@media only screen and (min-width: 768px) {
-    #hpic{
-        background-image: url(https://res.cloudinary.com/dy0hlxft4/image/upload/v1676283222/cyndionlinestores/maleshoe_dbau56.gif);
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position:center;
-        height: 500px;
-    }
+   height: 500px;
 }
 
 
