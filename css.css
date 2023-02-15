@@ -18,7 +18,7 @@ h1 {
     height: 5rem;
 }
 
-.btn {
+#inbtn{
     font-weight: 700;
     border-radius: 300px;
 }
@@ -55,6 +55,11 @@ hr {
    background-size: cover;
    background-position:center;
    height: 500px;
+}
+
+#hfrm{
+    position: relative;
+    bottom: -450px;
 }
 
 
