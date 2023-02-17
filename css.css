@@ -1,4 +1,4 @@
-
+/* index page */
 #inbody,
 #inhtml {
     width: 100%;
@@ -33,13 +33,14 @@ h1 {
     transform: scale(0.9);
 }
 
-hr {
+#inhr {
     margin: 20px auto;
     color: orange;
     border: 3px solid orange;
     max-width: 65px;
     opacity: 1;
 }
+/* index page */
 
 
 
@@ -94,6 +95,14 @@ hr {
     bottom: 5px;
     left: 150px;
     
+}
+#hsec1 .card{
+    transition:0.8s;
+}
+
+#hsec1 .card:hover{
+    box-shadow: 2px 4px 4px 2px grey;
+    transition: 0.8s;
 }
 
 
